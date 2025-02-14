@@ -1,5 +1,5 @@
 # Deer-Detection-System-with-Raspberry-Pi-for-Smart-Traffic-Signal-Control
-
+![Result](res.jpg)
 ## Installation Guide
 
 Follow these steps to set up the environment and run the project.
